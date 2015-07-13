@@ -11,6 +11,7 @@ namespace TestApp
         static void Main(string[] args)
         {
             Console.WriteLine("My first program at domain yay");
+            Console.WriteLine("Pairing with Peyman");
             Console.ReadLine();
         }
     }
